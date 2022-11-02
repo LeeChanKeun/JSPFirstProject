@@ -52,8 +52,8 @@
         <select id = "inputState" class="form-select" name="state">
             <option selected>Choose...</option>
             <option value="Montana">Montana</option>
-            <option value="California">Montana</option>
-            <option value="LA">Montana</option>
+            <option value="California">California</option>
+            <option value="LA">LA</option>
         </select>
     </div>
     <div class="col-md-2">
