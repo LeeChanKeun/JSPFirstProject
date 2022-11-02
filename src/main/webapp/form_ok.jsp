@@ -22,9 +22,7 @@
     String isCheckMSG = "";
 //    if(isCheck.equals("1")){
 //        isCheckMSG = "Check me out 체크됨!";
-//    }else{
-//        isCheckMSG = "Check me out 체크되지 않음!";
-//    }
+
     if(isCheck==null){
         isCheckMSG = "";
     }else{
